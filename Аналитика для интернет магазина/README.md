@@ -2,9 +2,9 @@
 
 ## Данные 
 Три таблицы: 
-   olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
-   olist_orders_dataset.csv —  таблица заказов
-   olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
+   * olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
+   * olist_orders_dataset.csv —  таблица заказов
+   * olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
   
 ## Задача
 Анализ совершенных покупок и ответы на вопросы:
