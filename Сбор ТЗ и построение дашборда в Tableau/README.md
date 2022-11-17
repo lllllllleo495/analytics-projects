@@ -1,5 +1,4 @@
-Ссылка на дашборд 
-https://public.tableau.com/app/profile/leonid2471/viz/Monetary_16633592308030/True?publish=yes
+[Дашборд](https://public.tableau.com/app/profile/leonid2471/viz/Monetary_16633592308030/True?publish=yes)
 
 # Данные
 Таблица 'monetary' – вариант для распределения премий. Есть данные про каждого сотрудника в компании, информация о его рабочей позиции, социально-демографические и профессиональные характеристики.
